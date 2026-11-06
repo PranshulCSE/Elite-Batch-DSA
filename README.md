@@ -9,5 +9,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PranshulCSE/Elite-Batch-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PranshulCSE/Elite-Batch-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PranshulCSE/Elite-Batch-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
